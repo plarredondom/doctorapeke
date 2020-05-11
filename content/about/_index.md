@@ -1,7 +1,7 @@
 ---
 title: Acerca de mi
 date: 2019-10-29T07:49:23.000+00:00
-image: /images/author.png
+image: /images/author.jpg
 description: this is meta description
 
 ---

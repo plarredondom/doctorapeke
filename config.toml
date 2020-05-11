@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "/"
 languageCode = "en-us"
-title = "Liva | Personal blog template"
+title = "DoctoraPeke Blog"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -45,7 +45,7 @@ disqusShortname = ""
   
   # main menu
   [[menu.main]]
-  name = "About"
+  name = "Acerca de mi"
   URL = "about"
   weight = 1
   
@@ -55,13 +55,13 @@ disqusShortname = ""
   weight = 2
   
   [[menu.main]]
-  name = "Contact"
+  name = "Contacto"
   URL = "contact"
   weight = 3
 
   # footer menu
   [[menu.footer]]
-  name = "About"
+  name = "Acerca de mi"
   URL = "about"
   weight = 1
   
@@ -71,7 +71,7 @@ disqusShortname = ""
   weight = 2
   
   [[menu.footer]]
-  name = "Contact"
+  name = "Contacto"
   URL = "contact"
   weight = 3
 
@@ -81,16 +81,16 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "blog de cuidado infantil"
+author = "DoctoraPeke"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
 mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+email = "doctorapeke@email.com"
+location = "Rancagua, Chile"
 # copyright
-copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved |"
+copyright = "| copyright &copy; 2020 [Piztek](https://piztek.com) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
@@ -104,7 +104,7 @@ copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All 
 ############################ news letter ########################
 [params.newsletter]
 enable = true
-title = "Join Our Newsletter"
+title = "Unete a nuestro Boletin"
 content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
 
 ############################# social site ########################
@@ -121,14 +121,4 @@ link = "#"
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "#"

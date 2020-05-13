@@ -1,64 +1,64 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Our Plans
+  title : Nuestros Planes
   pricing_table :
     # pricing table loop
-    - name : Free
-      price : $99
+    - name : Minimo
+      price : $5
       unit : month
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Servicio 1
+        - Servicio 2
+        - Servicio 3
+        - Producto 1
+        - Producto 2
+        - Producto 3
       button:
-        label : "Signup"
+        label : "Suscribete"
         link : "#"
       
     # pricing table loop
-    - name : Silver
-      price : $149
+    - name : Medio
+      price : $25
       unit : month
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Servicio 1
+        - Servicio 2
+        - Servicio 3
+        - Producto 1
+        - Producto 2
+        - Producto 3
       button:
-        label : "Signup"
+        label : "Suscribete"
         link : "#"
         
     # pricing table loop
-    - name : Gold
-      price : $199
+    - name : Full
+      price : $45
       unit : month
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Servicio 1
+        - Servicio 2
+        - Servicio 3
+        - Producto 1
+        - Producto 2
+        - Producto 3
       button:
-        label : "Signup"
+        label : "Suscribete"
         link : "#"
         
     # pricing table loop
-    - name : Platinum
-      price : $299
+    - name : VIP
+      price : $5
       unit : month
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Servicio 1
+        - Servicio 2
+        - Servicio 3
+        - Producto 1
+        - Producto 2
+        - Producto 3
       button:
-        label : "Signup"
+        label : "Suscribete"
         link : "#"

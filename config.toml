@@ -79,7 +79,7 @@ disqusShortname = ""
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-home = "Home"
+home = "Inicio"
 # Meta data
 description = "blog de cuidado infantil"
 author = "DoctoraPeke"
@@ -111,12 +111,12 @@ content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam non
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/DoctoraPeke"
 
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/doctorapeke"
 
 [[params.social]]
 title = "instagram"

@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = [maternidad,lactancia]
 date = 2020-05-10T05:00:00Z
 description = "Lorem ipsum dolor sit amet."
 image = "/images/uploads/maternidad.JPG"
-tags = []
+tags = [maternidad,lactancia,bebes]
 title = "La maternidad Ideal"
 type = "post"
 

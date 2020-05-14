@@ -3,7 +3,7 @@ layout: blog
 categories:
 date: 2020-05-14T21:16:07.688Z
 image: /images/uploads/bebidas_niños.png
-tags: "delicioso", "sin azucar"
+tags: delicioso, sin azucar
 title: ¿Cual es la mejor bebida para un niño?
 type: "featured"
 ---

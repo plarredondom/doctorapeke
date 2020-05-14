@@ -122,3 +122,6 @@ link = "https://twitter.com/doctorapeke"
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "https://www.instagram.com/doctorapeke/"
+
+############################# categorias ########################
+categories = ["Alimentos", "Emergencias", "Dia a dia"]

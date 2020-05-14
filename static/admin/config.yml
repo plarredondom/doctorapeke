@@ -23,5 +23,5 @@ collections:
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Etiquetas", name: "tags", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Tipo Post", name: "type", widget: "number"}     
+      - {label: "Tipo Post", name: "type", widget: "string"}     
       - {label: "Body", name: "body", widget: "markdown"}

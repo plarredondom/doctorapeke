@@ -92,6 +92,10 @@ location = "Rancagua, Chile"
 # copyright
 copyright = "| copyright &copy; 2020 [Piztek](https://piztek.com) All Rights Reserved |"
 
+############################# categorias ########################
+categories = ["Alimentos", "Emergencias", "Dia a dia"]
+
+
   # Preloader
   [params.preloader]
   enable = true
@@ -123,5 +127,3 @@ title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "https://www.instagram.com/doctorapeke/"
 
-############################# categorias ########################
-categories = ["Alimentos", "Emergencias", "Dia a dia"]

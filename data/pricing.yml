@@ -1,7 +1,7 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Nuestros Planes
+  title : Planes de asesorias
   pricing_table :
     # pricing table loop
     - name : Minimo

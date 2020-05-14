@@ -1,9 +1,9 @@
 ---
 layout: blog
-categories:
+categories: "Alimentos"
 date: 2020-05-14T21:16:07.688Z
 image: /images/uploads/bebidas_niños.png
-tags: delicioso, bebidas
+tags: "delicioso", "bebidas"
 title: ¿Cual es la mejor bebida para un niño?
 type: "featured"
 ---
